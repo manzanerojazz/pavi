@@ -1,0 +1,118 @@
+
+body{
+  font-family: "Montserrat", sans-serif;
+}
+
+
+#title {
+  background-color: #fff;
+  color: #ad8330;
+}
+
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+h1{
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-top: 7%;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+
+h3{
+  font-family: "Montserrat";
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ad8330;
+}
+
+p{
+  color: #afafaf;
+}
+      /* Navigation Bar */
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+
+.nav-item{
+  padding: 0 30px;
+
+}
+
+.nav-link{
+  font-size: 1.5rem;
+  font-family: "Montserrat-Light";
+}
+
+  /* Title Image */
+
+.bottle-image{
+  width: 60%;
+  margin-left: 10.5rem;
+  border-radius: 80%;
+}
+
+
+  /* Features Section */
+
+#benefits{
+  padding: 5% 7%;
+
+}
+
+.benefits-box{
+  text-align: center;
+
+}
+
+.icon{
+  color: #c1330c;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+
+    /* Products Section */
+
+#products {
+  text-align: center;
+  background-color: #fff;
+  color: #ad8330;
+
+}
+
+.product{
+  max-width: 40%;
+  max-height: 40%;
+  border-radius: 20%;
+  margin: 20px;
+
+}
+
+.carousel-item {
+  padding: 5% 7%;
+}
+
+.carousel-control-next {
+  filter: invert(100%);
+}
+
+.carousel-control-prev {
+  filter: invert(100%);
+}
